@@ -26,6 +26,6 @@
      Special thanks to the Atomcamp AI Bootcamp instructors for their guidance.
 #### Contact
      Feel free to reach out:
-        - LinkedIn: [https://www.linkedin.com/in/tila-muhammad-b77498240/]
-        - GitHub: [Tila173](https://github.com/Tila173)
+        - LinkedIn: https://www.linkedin.com/in/tila-muhammad-b77498240/
+        - GitHub: Tila173 https://github.com/Tila173
         - Email: w4s.tila@email.com
