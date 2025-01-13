@@ -28,4 +28,4 @@
      Feel free to reach out:
 - LinkedIn: https://www.linkedin.com/in/tila-muhammad-b77498240/
 - GitHub: Tila173 https://github.com/Tila173
-- Email: w4s.tila@email.com
+- Email: w4s.tila@gmail.com
